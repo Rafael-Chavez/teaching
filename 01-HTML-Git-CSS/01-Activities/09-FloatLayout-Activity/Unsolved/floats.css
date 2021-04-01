@@ -1,0 +1,51 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #FFA500;
+}
+
+section {padding: 20px;
+  margin-bottom: 20px;
+}
+
+#left {float:left;
+  width: 33.3%;
+
+}
+
+#middle {float:left;
+  width: 33.3%;
+}
+
+#right {float:left;
+  width: 33.3%;
+}
+
+#full {overflow: auto;
+}
+
+#division {
+}
+
+aside {width: 33%;
+  height: 200px;
+}
+
+footer {
+}
+
+</body>
+</html>
